@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Nageshwar-Bedge/Food_Ordering_Website/image?language=1&owner=1&name=1&stargazers=1&theme=Light" width="640" height="180" /></p>
 
-<p id="description">This project is a Netflix clone developed using the HTML CSS JavaScript for Frontend and PHP for Backend.</p>
+<p id="description">This project is a Food-Ordering-Website developed using the HTML CSS JavaScript for Frontend and PHP for Backend.</p>
 
 <h2>🚀 Project Walkthrough:</h2>
 
