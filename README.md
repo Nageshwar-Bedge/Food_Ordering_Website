@@ -20,14 +20,19 @@ SignIn
 https://github.com/swapnilkr/Netflix/assets/49485584/7c1d0718-b51b-4e21-bb45-7b84f685be51
 
 <h2>🧐 Features</h2>
-Here're some of the project's best features:
+Here are some of the key features of our food ordering website:
 
-*   Netflix Clone
-*   Authentication flow using React authContext and Mongoose
-*   Crypto.js- password hashing
-*   API to fetch movies list from DB
+* User-friendly interface for easy food selection and ordering
+* Secure authentication system for user accounts
+* Interactive menu with images and descriptions
+* Order tracking and status updates
+* Multiple payment options including credit/debit cards, PayPal, and cash on delivery
 
 <h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone this project</p>
+
+git clone https://github.com/Nageshwar-Bedge/food-ordering-website.git
 
 <p>1. Clone this project</p>
 
@@ -40,24 +45,18 @@ Here're some of the project's best features:
 cd ../Netflix
 ```
 
-<p>3. Install Dependency</p>
+cd food-ordering-website
+
+<p>3. Set up your database</p>
+
+<p>5. Start your web server (e.g., Apache)</p>
+
+<p>6. Visit the website in your browser</p>
 
 ```
-npm install
-```
-<p>4. In index.js; Replace mongoose URL</p>
-
-<p>5. Run this command</p>
-
-```
-npm start
+http://localhost/food-ordering-website
 ```
 
-<p>6. Vist -&gt;</p>
-
-```
-http://localhost:8000/
-```
 
 <h2>💻 Built with</h2>
 
@@ -78,7 +77,7 @@ Contributions, issues and feature requests are welcome.
 <h2> Author </h2>
 <h3 align="center">Hi 👋, I'm Nagesh</h3>
 <hr>
-<h4 align="center">A passionate full stack web developer.</h4>
+<h4 align="center">A passionate Full Stack Web Developer.</h4>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nageshwar-Bedge]
 - 📫 How to reach me **nageshwarbedge17@gmail.com**
