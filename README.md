@@ -51,6 +51,9 @@ http://localhost/food-ordering-website
   <li>JQUERY</li>
 </ol>
 
+## System Requirements
+
+Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
 
 <h2><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing </h2>
 Contributions, issues and feature requests are welcome.
