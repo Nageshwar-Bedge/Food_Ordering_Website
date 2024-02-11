@@ -42,14 +42,15 @@ http://localhost/food-ordering-website
 
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
-<div align="center">
-1. PHP
-2. SQL
-3. BOOTSTRAP 4
-4. AJAX
-5. JQUERY
-</div>
+<h2>Technologies Used in the project:</h2>
+<ol>
+  <li>PHP</li>
+  <li>SQL</li>
+  <li>BOOTSTRAP 4</li>
+  <li>AJAX</li>
+  <li>JQUERY</li>
+</ol>
+
 
 <h2><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing </h2>
 Contributions, issues and feature requests are welcome.
