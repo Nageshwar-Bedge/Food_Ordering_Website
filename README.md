@@ -20,7 +20,7 @@ Here are some of the key features of our food ordering website:
 <p>1. Clone this project</p>
 
 ```
-(https://github.com/Nageshwar-Bedge/Netflix-App-Clone.git)
+[https://github.com/Nageshwar-Bedge/Food_Ordering_Website.git]
 ```
 <p>2. Change the directory</p>
 
