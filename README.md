@@ -19,20 +19,15 @@ Here are some of the key features of our food ordering website:
 
 <p>1. Clone this project</p>
 
-git clone https://github.com/Nageshwar-Bedge/food-ordering-website.git
-
-<p>1. Clone this project</p>
-
 ```
 (https://github.com/Nageshwar-Bedge/Netflix-App-Clone.git)
 ```
 <p>2. Change the directory</p>
 
 ```
-cd ../Netflix
+cd food-ordering-website
 ```
 
-cd food-ordering-website
 
 <p>3. Set up your database</p>
 
